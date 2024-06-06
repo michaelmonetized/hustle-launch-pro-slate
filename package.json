@@ -1,0 +1,21 @@
+{
+  "name": "hustle-launch-pro-slate",
+  "displayName": "Hustle Launch Pro Slate",
+  "description": "A color theme for pro hustlers",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Hustle Launch Pro Slate",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Hustle Launch Pro Slate-color-theme.json"
+      }
+    ]
+  }
+}
